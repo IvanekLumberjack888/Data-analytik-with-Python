@@ -2,6 +2,7 @@
 Kurz Engeto
 # Kurz Datová analýza s Pythonem
 ## Studijní Plán
+# blok_je_modul
 
 ### 1. Blok: Základy Programování
 - [x] **Nainstalovat Python** a naučit se základy programování.
