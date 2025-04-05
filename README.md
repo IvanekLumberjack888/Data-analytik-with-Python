@@ -4,7 +4,7 @@ Kurz Engeto
 ## Studijní Plán
 
 ### 1. Blok: Základy Programování
-- [ ] **Nainstalovat Python** a naučit se základy programování.
+- [x] **Nainstalovat Python** a naučit se základy programování.
 - [ ] **Naučit se používat podmínky a metody** v Pythonu.
 - [ ] **Seznamovat se s datovými strukturami** jako jsou slovníky a množiny.
 - [ ] **Naučit se používat smyčky** pro zpracování dat.
