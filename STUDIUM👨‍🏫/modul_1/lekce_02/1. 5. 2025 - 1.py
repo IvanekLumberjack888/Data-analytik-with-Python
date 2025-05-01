@@ -31,3 +31,9 @@ print(jmeno.split())        # ["Radim", "Jedlicka"]
 seznam = [1, 2, 3]
 seznam.append(4)
 print(seznam)               # [1, 2, 3, 4]
+
+osoba = {"jmeno": "Radim", "vek": 25}
+#ještě slovník
+#KLÍČ-HODNOTA
+for klic, hodnota in osoba.items():
+    print(klic, hodnota)
