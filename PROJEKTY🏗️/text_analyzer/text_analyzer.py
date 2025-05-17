@@ -1,1 +1,0 @@
-## Text analyzer
