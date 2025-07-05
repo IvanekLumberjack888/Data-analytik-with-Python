@@ -4,17 +4,7 @@ Kurz Engeto
 ## Studijní Plán 🛣️
 # blok_je_modul 🤣
 
-### 1. Blok: Základy Programování 🧬
-- [x] **Nainstalovat Python** a naučit se základy programování.
-- [ ] **Naučit se používat podmínky a metody** v Pythonu.
-- [ ] **Seznamovat se s datovými strukturami** jako jsou slovníky a množiny.
-- [ ] **Naučit se používat smyčky** pro zpracování dat.
 
-### 2. Blok: Učení se na Projektech 🏗️
-- [ ] **Naučit se používat while cyklus** pro komplexnější úkoly.
-- [ ] **Zjistit, jak používat externí knihovny, moduly a balíčky**.
-- [ ] **Definovat a používat funkce**.
-- [ ] **Zlepšit znalosti o funkcích**.
 
 ### 3. Blok: Psaní Vlastních Programů 💻
 - [ ] **Naučit se číst a zapisovat do souborů**.
