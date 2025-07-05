@@ -9,10 +9,7 @@ Cílem je krok za krokem zvládnout klíčové koncepty datové analýzy a vytvo
 
 ---
 
-## ✅ Studijní plán  
-
-> 📌 *Blok = modul kurzu, přibližně 1–2 týdny studia podle tempa.*  
-> 💡 Úkoly se dají odškrtávat pomocí `- [x]` v Markdownu.
+## ✅ Studijní plán
 
 ---
 
